@@ -1,0 +1,8 @@
+{
+  "name": "ProctAI",
+  "description": "Advanced AI-driven online proctoring system with real-time face tracking, eye gaze analysis, and object detection.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
